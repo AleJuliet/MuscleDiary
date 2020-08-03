@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MuscleDiary.iml" filepath="$PROJECT_DIR$/MuscleDiary.iml" group="MuscleDiary" />
+      <module fileurl="file://$PROJECT_DIR$/subProject/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver.iml" filepath="$PROJECT_DIR$/subProject/ShimmerAndroidInstrumentDriver/ShimmerAndroidInstrumentDriver.iml" group="MuscleDiary/subProject/ShimmerAndroidInstrumentDriver" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="MuscleDiary/app" />
+      <module fileurl="file://$PROJECT_DIR$/subProject/subProject.iml" filepath="$PROJECT_DIR$/subProject/subProject.iml" group="MuscleDiary/subProject" />
+    </modules>
+  </component>
+</project>
