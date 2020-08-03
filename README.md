@@ -3,9 +3,9 @@
 This is an Android Application made for the course Personal Data Interaction from the Technical University of Denmark (DTU).
 
 ## Installation
-Clone this repository and import into **Android Studio**
-The project imports Shimmer API.
-This app is configured to be used together with a Shimmer sensor http://www.shimmersensing.com/products/shimmer3-emg-sensor
+- Clone this repository and import into **Android Studio**.
+- The project imports Shimmer API.
+- This app is configured to be used together with a Shimmer sensor http://www.shimmersensing.com/products/shimmer3-emg-sensor
 
 
 ## Structure
