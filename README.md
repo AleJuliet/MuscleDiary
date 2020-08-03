@@ -1,4 +1,4 @@
-# Android Example Application
+# MuscleDiary
 
 This is an Android Application made for the course Personal Data Interaction from the Technical University of Denmark (DTU).
 
