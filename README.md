@@ -1,6 +1,7 @@
 # MuscleDiary
 
 This is an Android Application made for the course Personal Data Interaction from the Technical University of Denmark (DTU).
+Developed in March-June 2018
 
 ## Installation
 - Clone this repository and import into **Android Studio**.
